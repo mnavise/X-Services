@@ -1,3 +1,5 @@
+X Service merupakan aplikasi yang dibuat untuk memudahkan orang-orang yang membutuhkan bantuan dalam memperbaiki Smartphone yang mengalami kerusakan yang ringan tanpa harus pengguna mendatangi toko service Smartphone.
+
 # HoreSquadTI1 #
 PEMROGRAMAN PERANGKAT BERGERAK
 1. Amin Mustofa          18102005
