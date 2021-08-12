@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LayarSplash"
+    android:background="@color/amoled">
+
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="179dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="250dp"
+        android:contentDescription="TODO"
+        android:src="@drawable/judul" />
+    <ProgressBar
+        android:id="@+id/progressbar"
+        android:layout_marginTop="250dp"
+        android:indeterminateTint="@color/white"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:text="@string/herosquad"
+        android:textAlignment="center" />
+</FrameLayout>

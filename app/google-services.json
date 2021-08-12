@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825860973727",
+    "project_id": "fir-xhome",
+    "storage_bucket": "fir-xhome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825860973727:android:e71cd34b6ca58f8f77aeaa",
+        "android_client_info": {
+          "package_name": "com.kolot.x_servicesbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825860973727-h56a4ups5djkf965a8a3qjd5sabi51uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYjypFVEXH5hkEBX421lDXS1gxnJ2BAn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825860973727-h56a4ups5djkf965a8a3qjd5sabi51uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

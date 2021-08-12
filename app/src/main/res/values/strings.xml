@@ -1,0 +1,205 @@
+<resources>
+    <string name="app_name">X-Services Beta</string>
+    <string name="textbuat">Buat Pesanan</string>
+    <string name="textcek">Cek Pesanan</string>
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="tampil_list">Tampilan List</string>
+    <string name="tampil_grid">Tampilan Grid</string>
+    <string name="tampil_card_view">Tampilan Cardview</string>
+    <string name="textakun">Akun</string>
+    <string name="textinfo">Tentang</string>
+    <string name="title">Nama</string>
+    <string name="category">Jenis Kelamin</string>
+    <string name="agama">Agama</string>
+    <string name="date">Tanggal</string>
+    <string name="submit">OK</string>
+    <string name="makan">Pekerjaan</string>
+    <string name="minum">Alamat</string>
+    <string name="fajar">Fajar Al Rasyid</string>
+    <string name="tambah">Simpan</string>
+    <string-array name="data_name">
+        <item>Bayar Biaya Konsultasi Medis Online di KlikDokter Bisa Pakai Uang Digital Dana</item>
+        <item>Cara Daftar IMEI Ponsel yang Dibeli dari Luar Negeri agar Terdaftar di Kemenperin</item>
+        <item>Pengguna Layanan OTT di Indonesia Capai 66 Juta Orang</item>
+        <item>Microsoft Teams Tak Lagi Berfungsi di Internet Explorer 11</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+ <item>TRIBUNNEWS.COM, JAKARTA – Pandemi Covid-19 menyebabkan banyak masyarakat yang beralih memanfaatkan layanan kesehatan seperti konsultasi dengan dokter melalui platform online.
+Tren ini antara lain terjadi di platform aplikasi kesehatan KlikDokter. Untuk mempermudah layanan konsultasi kesehatan via digital ini, KlikDokter menggandeng dompet digital Dana untuk menjadi mitra pembayaran resmi.
+Direktur Utama KlikDokter Dino Bramanto dalam keterangan pers Senin (30/11/2020) mengungkapkan, KlikDokter melihat meningkatnya tren masyarakat dalam memanfaatkan platform konsultasi kesehatan onlineuntuk membangun kerja sama dengan unit usaha lokal lainnya.
+"Kami memutuskan berkolaborasi dengan Dana dan niat inipun disambut positif,” ungkapnya.
+Lewat kolaborasi ini, pengguna KlikDokter dan Dana yang ingin melakukan konsultasi kesehatan virtual dapat melakukan pembayaran lewat saldo Dana yang dimiliki. Selain praktis, layanan transaksi digital ini juga meminimalisir  kontak fisik.
+Mia Argianti, Head of B2B KlikDokter mengatakan, kerja sama ini diharapkan dapat mempermudah pengguna KlikDokter agar dapat melakukan konsultasi kesehatan di platform kami dimanapun dan kapanpun juga dengan metode bayar lebih mudah.
+Kehadiran dua layanan yang saling terintegrasi ini diharapkan dapat menjadi solusi digital yang mampu menjawab kebutuhan masyarakat.
+Vince Iswara, CEO dan Co-Founder Dana mengatakan, fenomena pandemi Covid-19 telah mengubah kebiasaan masyarakat dalam mengadopsi teknologi dan memanfaatkan transaksi digital.
+Karena itu, Dana hadir memberikan kemudahan lewat berbagai fitur dan mini program yang erat kaitannya dengan pemulihan ekonomi maupun informasi seputar pandemi.
+"Kolaborasi dengan KlikDokter ikut menyempurnakan upaya kami dalam membangun infrastruktur digital sehat dan berbasis lokal," ujarnya.
+Pihaknya berharap kolaborasi ini dapat dimanfaatkan sebaik mungkin oleh masyarakat dan membuka optimisme baru untuk terwujudnya Indonesia lebih sehat dan maju sekaligus memperkuat sektor kesehatan dan juga perekonomian Indonesia.
+"KlikDokter akan tetap terus mendukung pemerintah dalam bidang kesehatan dan berharap dapat terus memperoleh kesempatan untuk dapat berkolaborasi secara luas dengan berbagai bidang,” imbuh Dino Bramanto.
+Artikel ini telah tayang di Tribunnews.com dengan judul Bayar Biaya Konsultasi Medis Online di KlikDokter Bisa Pakai Uang Digital Dana,
+Editor: Choirul Arifin</item>
+        <item>TRIBUNNEWS.COM - Berikut cara daftar nomor IMEI ponsel atau HP yang dibeli dari luar negeri.
+Pendaftaran IMEI ini bertujuan agar ponsel terdaftar di laman Kementerian Perindustrian Republik Indonesia (Kemenperin) dan bisa menggunakan jaringan seluler yang ada di Indonesia.
+Diketahui, pemerintah telah melakukan pemblokiran HP black market (BM) melalui identifikasi nomor IMEI pada Selasa (15/9/2020).
+Artinya, ponsel tidak resmi dengan IMEI tidak terdaftar di Kemenperin secara otomatis tidak akan terhubung jaringan seluler.
+Untuk cek nomor IMEI terdaftar di Kementerian Perindustrian, Anda dapat mengakses imei.kemenperin.go.id.
+Artikel ini telah tayang di Tribunnews.com dengan judul Cara Daftar IMEI Ponsel yang Dibeli dari Luar Negeri agar Terdaftar di Kemenperin, https://
+Penulis: Arif Fajar Nasucha
+Editor: Pravitri Retno Widyastuti</item>
+        <item>TRIBUNNEWS.COM, JAKARTA - Indonesia menduduki peringkat pertama terbanyak menggunakan layanan Over-The-Top (OTT), platform untuk menonton video profesional melalui internet.
+Dalam sebulan, orang Indonesia menggunakan tiga miliar jam OTT yang merupakan tertinggi di wilayah Asia Tenggara.
+"Sekitar 66 juta orang Indonesia telah menggunakan OTT," kata Jennie Johnson selaku Senior Director Marketing – SEA, AU, dan NZ, The TradeDesk dalam keterangannya, Sabtu (27/11/2020).
+The Trade Desk mengandeng Kantar untuk melakukan mensurvei 4.500 konsumen di Indonesia, Filipina, Singapura, Malaysia, Thailand dan Vietnam.
+Baca juga: Kurangi Kesenjangan, Publik Butuh Akses Internet Berkualitas dan Terjangkau
+OTT adalah jenis streaming video, seperti Youtube, Vidio, Viu, dan iflix, yang bisa berbayar, langganan atau gratis yang diberikan kepada konsumen yang didukung oleh iklan.
+Dari jumlah itu sebanyak 70 persen penonton OTT di Indonesia menonton lebih 1 jam per hari.
+Di Indonesia, perempuan khususnya sangat aktif di OTT.
+"Mayoritas penonton OTT di Indonesia adalah perempuan yakni 57 persen dan dari jumlah itu, 68% pengguna menonton lebih dari 4 jam per hari," katanya.
+Artikel ini telah tayang di Tribunnews.com dengan judul Pengguna Layanan OTT di Indonesia Capai 66 Juta Orang
+Penulis: Eko Sutriyanto
+Editor: Willem Jonata</item>
+        <item>Jakarta - Salah satu aplikasi meeting online populer buatan Microsoft yakni Teams, akan dihentikan dukungannya di browser Internet Explorer 11.
+Hal tersebut sudah diumumkan sebelumnya pada pertengahan tahun ini di mana browser legendaris ini memang dijadwalkan resmi pensiun tahun depan. Walau demikian, pengguna IE 11 diperkirakan masih jutaan.
+Mengingat masih banyak website dan aplikasi yang menggunakan Internet Explorer, Microsoft akan mematikan browsernya ini secara bertahap salah satunya dengan Microsoft Teams.
+Mulai tanggal 30 November, Microsoft sudah menghentikan sepenuhnya layanan Microsoft Teams di Internet Explorer 11. Pengguna pun akan dialihkan ke Microsoft Edge untuk tetap dapat mengakses Teams di browser.
+Selain itu juga dijadwalkan semua layanan dan aplikasi Microsoft 365 akan dihentikan dukungannya untuk Internet Explorer 11 mulai tahun depan hingga akhirnya resmi mati pada 17 Agustus 2021.
+"Mulai 30 November 2020, aplikasi web Microsoft Teams tidak lagi mendukung IE 11 dan 17 Agustus 2021, aplikasi dan layanan Microsoft 365 yang tersisa tidak akan lagi mendukung IE 11," kata Microsoft.
+"Ini berarti bahwa setelah tanggal di atas, pelanggan akan mengalami penurunan pengalaman atau tidak akan dapat terhubung ke aplikasi dan layanan Microsoft 365 di IE 11," lanjut Microsoft.
+Internet Explorer 11 adalah versi paling baru dan merupakan yang terakhir dari seri browser ini. Nantinya Internet Explorer 11 akan digantikan oleh Microsoft Edge, browser terbaru Microsoft berbasis software Chromium yang dikembangkan Google untuk Google Chrome.
+Karenanya, Microsoft Edge menjanjikan lebih banyak fitur dibandingkan Internet Explorer. Dikutip dari Independent, ada juga versi lama Microsoft Edge yang belum berbasis Chromium. Versi ini juga akan ikut dimatikan mulai 9 Maret 2021.
+Penutupan Internet Explorer dan browser non-Chromium Microsoft sebenarnya sudah mulai dilakukan Microsoft sejak beberapa tahun lalu. Internet Explorer 8, 9, dan 10, dihentikan pada tahun 2016.</item>
+
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://cdn-2.tstatic.net/tribunnews/foto/bank/images/konsultasi-kesehatan-online.jpg</item>
+        <item>https://cdn-2.tstatic.net/tribunnews/foto/bank/images/cek-imei-hp1.jpg</item>
+        <item>https://cdn-2.tstatic.net/tribunnews/foto/bank/images/berkat-tcl-a8-kini-kamu-bisa-nonton-video-youtube-rame-rame.jpg</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2017/04/11/1bba0a41-dca2-4301-8185-0224543a6fd0_169.jpg</item>
+    </string-array>
+    <string name="title_activity_detail">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="Berita">Berita</string>
+    <string name="textPengaturan">Pengaturan</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps">Temukan Kita</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="after_register">Sudah memiliki akun? Login Sekarang</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="hore_gmail_com">hore@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="loginsit">Login</string>
+    <string name="belum_memiliki_akun">Belum memiliki akun?</string>
+    <string name="daftar">Daftar</string>
+    <string name="daftarr">Daftar Akun</string>
+    <string name="nama">Nama</string>
+    <string name="sudah_memiliki_akun">Sudah Memiliki Akun?</string>
+    <string name="unfixed">Mohon maaf, sistem sedang dalam pengembangan.</string>
+    <string name="ver">©HeroSquad</string>
+    <string name="herosquad">©HeroSquad</string>
+    <string name="coming_from">Pesan Dari</string>
+    <string name="txt_message">Isi Pesan</string>
+    <string name="close">Tutup</string>
+    <string name="incoming_message">Incoming Message</string>
+    <string name="delete">Hapus</string>
+    <string name="category_service">Kategori Service</string>
+    <string name="description_kerusakan">Silahkan Tambahkan Deskripsi Kerusakan</string>
+    <string name="submit_pesan">Pesan</string>
+    <string name="title_Kerusakan">Masukan Alaman Tujuan</string>
+
+</resources>

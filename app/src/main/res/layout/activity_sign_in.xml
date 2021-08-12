@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:background="@color/amoled"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="4">
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:indeterminate="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        style="?android:attr/progressBarStyleHorizontal"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".SignInActivity">
+
+        <ImageView
+            android:id="@+id/ivIcon"
+            android:layout_width="390dp"
+            android:layout_height="144dp"
+            android:layout_marginTop="80dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/judul" />
+
+        <EditText
+            android:id="@+id/inputPassword"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:background="@drawable/formtext"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:ems="10"
+            android:textAlignment="center"
+            android:hint="Password"
+            android:inputType="textPassword"
+            app:layout_constraintBottom_toTopOf="@+id/btnSign"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/inputEmail" />
+
+        <TextView
+            android:id="@+id/btnSign"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/buttonr"
+            android:layout_marginEnd="16dp"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:text="Masuk"
+            app:layout_constraintBottom_toTopOf="@+id/tvTextAccount"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/inputPassword" />
+
+        <EditText
+            android:id="@+id/inputEmail"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:textAlignment="center"
+            android:ems="10"
+            android:background="@drawable/formtext"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            app:layout_constraintBottom_toTopOf="@+id/inputPassword"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ivIcon" />
+
+        <TextView
+            android:id="@+id/tvSignUp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:text="Daftar"
+            android:textColor="@color/idtext"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/tvConneting"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvTextAccount" />
+
+        <TextView
+            android:id="@+id/tvTextAccount"
+            android:layout_width="188dp"
+            android:layout_height="31dp"
+            android:gravity="center"
+            android:text="Belum Mempunyai Akun?"
+            android:textColor="@color/idtext"
+            app:layout_constraintBottom_toTopOf="@+id/tvSignUp"
+            app:layout_constraintEnd_toEndOf="@+id/btnSign"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="@+id/btnSign"
+            app:layout_constraintTop_toBottomOf="@+id/btnSign" />
+
+        <TextView
+            android:id="@+id/tvConneting"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/idtext"
+            android:text="Atau Daftar Dengan"
+            app:layout_constraintBottom_toTopOf="@+id/btnEmail"
+            app:layout_constraintEnd_toEndOf="@+id/btnSign"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/btnSign"
+            app:layout_constraintTop_toBottomOf="@+id/tvSignUp" />
+
+        <ImageView
+            android:id="@+id/btnEmail"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/btnPhone"
+            app:layout_constraintStart_toStartOf="@+id/tvConneting"
+            app:layout_constraintTop_toBottomOf="@+id/tvConneting"
+            app:srcCompat="@drawable/gugel" />
+
+        <ImageView
+            android:id="@+id/btnPhone"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="118dp"
+            app:layout_constraintBottom_toBottomOf="@+id/btnEmail"
+            app:layout_constraintEnd_toEndOf="@+id/tvConneting"
+            app:layout_constraintStart_toEndOf="@+id/btnEmail"
+            app:layout_constraintTop_toTopOf="@+id/btnEmail"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/telepon" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

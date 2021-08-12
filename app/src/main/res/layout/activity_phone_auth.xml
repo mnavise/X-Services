@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PhoneAuthActivity"
+    android:background="@color/amoled">
+
+    <TextView
+        android:id="@+id/tvSignIn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="37dp"
+        android:text="Daftar dengan Nomor telepon"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:layout_marginTop="110dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"  />
+
+    <EditText
+        android:id="@+id/inputNumber"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/formtext"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:hint="Phone Number"
+        android:inputType="phone"
+        app:layout_constraintBottom_toTopOf="@+id/btnVerify"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/tv62"
+        app:layout_constraintTop_toBottomOf="@+id/tvSignIn" />
+
+    <EditText
+        android:id="@+id/inputVerifyCode"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
+        android:textAlignment="center"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/formtext"
+        android:layout_marginBottom="68dp"
+        android:ems="10"
+        android:hint="Verification Code"
+        app:layout_constraintBottom_toTopOf="@+id/btnContinue"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnVerify" />
+
+    <TextView
+        android:id="@+id/btnResend"
+        android:layout_width="135dp"
+        android:layout_height="35dp"
+        android:layout_marginEnd="16dp"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:text="Kirim Ulang Kode"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.53"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnContinue" />
+
+    <TextView
+        android:id="@+id/btnContinue"
+        android:layout_width="231dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/buttonr"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:text="Continue"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.474"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inputVerifyCode" />
+
+    <TextView
+        android:id="@+id/tv62"
+        android:layout_width="27dp"
+        android:layout_height="26dp"
+        android:layout_marginStart="16dp"
+        android:text="+62"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/inputNumber"
+        app:layout_constraintEnd_toStartOf="@+id/inputNumber"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/inputNumber" />
+
+    <TextView
+        android:id="@+id/btnVerify"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="32dp"
+        android:background="@drawable/buttonr"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:text="Verifikasi"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/inputVerifyCode"
+        app:layout_constraintEnd_toEndOf="@+id/inputNumber"
+        app:layout_constraintHorizontal_bias="0.284"
+        app:layout_constraintStart_toStartOf="@+id/inputNumber"
+        app:layout_constraintTop_toBottomOf="@+id/inputNumber" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
